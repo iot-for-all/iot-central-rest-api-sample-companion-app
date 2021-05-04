@@ -1,0 +1,8 @@
+node_modules/**/*
+npm-debug.*
+*.png
+*.svg
+*.eps
+*.pdf
+*.json
+!package*.json
