@@ -44,7 +44,7 @@ In order to actually utilize the mobile application, you will need an
 The CLI utility can be executed by running `node index <command>` in its source
 folder. The commands are as follows:
 
--   `init` - This will initialize the CLI configuration in the current folder.
+-   `config` - This will initialize the CLI configuration in the current folder.
     It will walk you through a number of steps to identify the capability model
     or device template for the devices you will be registering.
 -   `device <id>` - This will generate a QR code representing the device `id`,
